@@ -1,0 +1,15 @@
+.GithubLink {
+  text-decoration: none;
+  color: black;
+}
+
+.GithubLink:hover {
+  color: red;
+  border: 5px solid red;
+}
+
+.contact__main {
+  width: fit-content;
+  margin: auto;
+  padding: 5%;
+}
